@@ -1,28 +1,10 @@
 [Ll]ibrary/
-UserSettings
-ProjectSettings
-Packages
-obj
-Logs
-Library
-.vscode
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/UserSettings
-ProjectSettings
-Packages
-obj
-Logs
-Library
+[Bb]uild/
 *.apk
 *.unitypackage
-
-[Bb]uilds/UserSettings
-ProjectSettings
-Packages
-obj
-Logs
-Library
+[Bb]uilds/
 *.apk
 *.unitypackage
 
@@ -49,8 +31,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 My project (1).sln
-Assembly-CSharp.csproj
-Assembly-CSharp.Player.csproj
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -59,11 +40,4 @@ Assembly-CSharp.Player.csproj
 sysinfo.txt
 
 # Builds
-UserSettings
-ProjectSettings
-Packages
-obj
-Logs
-Library
-*.apk
-*.unitypackage
+
