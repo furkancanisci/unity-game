@@ -8,8 +8,24 @@ Library
 .vscode
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+[Bb]uild/UserSettings
+ProjectSettings
+Packages
+obj
+Logs
+Library
+*.apk
+*.unitypackage
+
+[Bb]uilds/UserSettings
+ProjectSettings
+Packages
+obj
+Logs
+Library
+*.apk
+*.unitypackage
+
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
