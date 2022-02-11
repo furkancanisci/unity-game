@@ -43,5 +43,11 @@ Assembly-CSharp.Player.csproj
 sysinfo.txt
 
 # Builds
+UserSettings
+ProjectSettings
+Packages
+obj
+Logs
+Library
 *.apk
 *.unitypackage
